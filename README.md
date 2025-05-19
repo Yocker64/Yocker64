@@ -19,10 +19,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/mario-sandoval-yoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mario-sandoval-919348257/" height="30" width="40" /></a>
-<a href="https://fb.com/mario yoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mario yoc" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mario sandoval" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mario sandoval" height="30" width="40" /></a>
-<a href="https://discord.gg/yocker#3737" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yocker#3737" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/mario-sandoval-yoc" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mario Sandoval LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/mario.yoc" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mario Yoc Facebook" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/c/MarioSandoval" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Mario Sandoval YouTube" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/your-server-invite-code" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Join on Discord" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
