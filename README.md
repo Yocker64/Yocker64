@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sandoval Mario</h1>
+<h1 align="center">Hi 👋, I'm Mario</h1>
 <h3 align="center">A passionate Systems Engineering student from Guatemala, currently living in Japan.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yocker64" alt="yocker64" /></a> </p>
 
-- 🔭 I’m currently working on **The Odin Project**
+- 🔭 I’m currently working on **My personal web page**
 
-- 🌱 I’m currently learning **JavaScript, Python and C++**
+- 🌱 I’m currently learning **Python, ML and C++**
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
