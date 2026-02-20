@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yocker64" alt="yocker64" /></a> </p>
 
-- 🔭 I’m currently working on **My personal web page**
+- 🔭 I’m currently working on **Tourism Page for a Guatemalan Tourism Startup**
 
 - 🌱 I’m currently learning **Python, ML and C++**
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
-- 🤝 I’m looking for help with **Learning how to use react**
+- 🤝 I’m looking for help with **A partner to boost the tours I can provide to people in the area of Kansai Japan**
 
-- 💬 Ask me about **Java, Math and Physics.**
+- 💬 Ask me about **NextJS, Math and Physics.**
 
 - 📫 How to reach me **mdyoc74@gmail.com**
 
