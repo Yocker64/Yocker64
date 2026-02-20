@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mario</h1>
 <h3 align="center">A passionate Systems Engineering student from Guatemala, currently living in Japan.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yocker64" alt="yocker64" /></a> </p>
+<h3 align="center">You can read my blog and look at my live demos at <a href="https://www.yocker64.com" target="_blank" rel="noopener noreferrer">Yocker64</a></h3>
 
 - 🔭 I’m currently working on **Tourism Page for a Guatemalan Tourism Startup**
 
